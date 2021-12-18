@@ -1,15 +1,17 @@
-# Contributing to .... Justice Chat Bot
+# Contributing to .... Do see africa
+
 We want to make contributing to this project as easy and transparent as
 possible.
 
 ## Our Development Process
 
-When submitting a PR please provide the context and is best to reference the 
+When submitting a PR please provide the context and is best to reference the
 feature, issue, chore, etc.
 
 Checkout PR templates
 
 ## Pull Requests
+
 We actively welcome pull requests.
 
 1. Fork the repo and create your branch from `main`.
@@ -18,10 +20,12 @@ We actively welcome pull requests.
 4. Ensure the test suite passes.
 5. Make sure your code lints.
 
-## Coding Style  
-* We use Prettier Airbnb for styling
+## Coding Style
+
+- We use Prettier Airbnb for styling
 
 ## License
+
 By contributing to ... JusticeChat Bot, you agree that
 your contributions will be licensed under the LICENSE file in the root directory
 of this source tree.
